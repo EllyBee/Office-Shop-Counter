@@ -5,3 +5,5 @@ This program has a button attached to digital input 2,3 and 4 on the arduino.
 Check serproxy is configured to to the correct com port.  - use /dev/cu- instead of /deb/tty-
 
 http://code.google.com/p/tinkerit/wiki/TinkerProxy
+
+yuki says hi
